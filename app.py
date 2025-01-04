@@ -197,6 +197,3 @@
 # else:
 #      print(True)
 
-
-Name =input("enter your name")
-print("congrats your name is", Name)
